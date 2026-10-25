@@ -3,7 +3,7 @@ title: python环境搭建
 date: 2026-10-23 00:00:00
 tags:
   - python
-categories: 计算机
+categories: 计算机编程
 ---
 提示：该python笔记仅仅用于国家二级考试适用。
 1.选择python-3.5.3.exe安装文件，双击进行安装。
@@ -27,3 +27,4 @@ categories: 计算机
 
 如果系统实在无法安装python-3.5.3.exe文件，请安装Python 3.4.3版本：执行python-3.4.3.msi文件。
 
+https://gh-proxy.com/

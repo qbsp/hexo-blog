@@ -3,7 +3,7 @@ title: python基础语法入门
 date: 2026-10-23 15:19:06
 tags:
   - python
-categories: 计算机
+categories: 计算机编程
 ---
 提示：该python笔记仅仅用于国家二级考试适用。
 > 学习内容：
@@ -39,6 +39,8 @@ print(name)
 ##代码注释
 #为单行注释符，'''为多行注释符
 
+
+![](/img/1_003442.jpg)
 
 
 
