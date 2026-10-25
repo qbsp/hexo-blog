@@ -27,4 +27,5 @@ categories: 计算机编程
 
 如果系统实在无法安装python-3.5.3.exe文件，请安装Python 3.4.3版本：执行python-3.4.3.msi文件。
 
-https://gh-proxy.com/
+![](/img/1_003442.jpg)
+
